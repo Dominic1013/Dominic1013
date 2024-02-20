@@ -89,10 +89,11 @@
 </td>
   </tr>
 </table>
-
-
+<br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dominic1013&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="dominic1013" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dominic1013&theme=dark" alt="dominic1013" /></p>
-
+<br />
+<br />
+<br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dominic1013&label=Profile%20views&color=0e75b6&style=flat" alt="dominic1013" /> </p>
